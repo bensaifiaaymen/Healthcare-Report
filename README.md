@@ -18,3 +18,8 @@ My Healthcare Dashboard provides a clear and insightful overview of hospital dat
 This project allowed me to showcase my skills in data modeling, data analysis, and visualization using Power BI.
 
 Working with a healthcare dataset, I designed an interactive and well-structured dashboard to transform raw hospital data into meaningful insights, facilitate data exploration, and support data-driven decision-making.
+
+Here is a preview of the Healthcare Analysis Dashboard:
+
+![Healthcare Dashboard](images/healthcare-dashboard.png)
+
