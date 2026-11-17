@@ -21,5 +21,5 @@ Working with a healthcare dataset, I designed an interactive and well-structured
 
 Here is a preview of the Healthcare Analysis Dashboard:
 
-![Healthcare Dashboard](images/healthcare-dashboard.png)
+[![Healthcare Dashboard](images/healthcare-dashboard.png)](https://github.com/bensaifiaaymen/Healthcare-Report/blob/main/helthcare%20project%20.png)
 
